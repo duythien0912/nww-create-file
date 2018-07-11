@@ -122,7 +122,6 @@ const run = async () => {
 
   const { FILETEMPLATE } = answersPath1;
 
-  console.log(FILETEMPLATE);
   var filePath = "";
 
   if (FILETEMPLATE === false) {
